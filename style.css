@@ -211,7 +211,7 @@ header {
 #large {
     grid-row-start: 1;
     grid-row-end: 4;
-    background-image: url(./images/the_biggest.png);
+    background-image: url(../images/the_biggest.png);
     margin: 0;
     height: 458px;
     width: 445px;
@@ -224,7 +224,7 @@ header {
     grid-column-start: 2;
     grid-column-end: 4;
     grid-row-start: 2;
-    background-image: url(./images/pink_collection.png);
+    background-image: url(../images/pink_collection.png);
     margin: 0;
     width: 635px;
     height: 204px;
@@ -235,7 +235,7 @@ header {
 
 
 #purple_collection {
-    background-image: url(./images/purple_collection.png);
+    background-image: url(../images/purple_collection.png);
     margin: 0;
     height: 225px;
     width: 302px;
