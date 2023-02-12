@@ -134,7 +134,7 @@ header {
 .title_section {
     height: 570px;
     width: 1519px;
-    background-image: url(../images/hero.png);
+    background-image: url(./images/hero.png);
     display: flex;
     align-items: center;
     margin: 0 auto;
